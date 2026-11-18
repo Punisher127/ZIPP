@@ -1,0 +1,388 @@
+
+[
+  {
+    "vak": "Chemie",
+    "datum": "2026-11-19",
+    "leerstof": "Symbolen en atoomsoorten p41 (zie SmartSchool voor meer info)",
+    "methodes": [
+      {
+        "type": "flashcards",
+        "titel": "Atoomsoorten oefenen (symbool naar atoomsoort)",
+        "kaarten": [
+          {"vraag": "Ag", "antwoord": "Zilver"},
+          {"vraag": "Al", "antwoord": "Aluminium"},
+          {"vraag": "Ar", "antwoord": "Argon"},
+          {"vraag": "As", "antwoord": "Arseen"},
+          {"vraag": "Au", "antwoord": "Goud"},
+          {"vraag": "B", "antwoord": "Boor"},
+          {"vraag": "Ba", "antwoord": "Barium"},
+          {"vraag": "Be", "antwoord": "Beryllium"},
+          {"vraag": "Br", "antwoord": "Broom"},
+          {"vraag": "C", "antwoord": "Koolstof"},
+          {"vraag": "Ca", "antwoord": "Calcium"},
+          {"vraag": "Cd", "antwoord": "Cadmium"},
+          {"vraag": "Cl", "antwoord": "Chloor"},
+          {"vraag": "Co", "antwoord": "Kobalt"},
+          {"vraag": "Cr", "antwoord": "Chroom"},
+          {"vraag": "Cu", "antwoord": "Koper"},
+          {"vraag": "F", "antwoord": "Fluor"},
+          {"vraag": "Fe", "antwoord": "IJzer"},
+          {"vraag": "Ge", "antwoord": "Germanium"},
+          {"vraag": "H", "antwoord": "Waterstof"},
+          {"vraag": "He", "antwoord": "Helium"},
+          {"vraag": "Hg", "antwoord": "Kwik"},
+          {"vraag": "I", "antwoord": "Jood of Jodium"},
+          {"vraag": "K", "antwoord": "Kalium"},
+          {"vraag": "Kr", "antwoord": "Krypton"},
+          {"vraag": "Li", "antwoord": "Lithium"},
+          {"vraag": "Mg", "antwoord": "Magnesium"},
+          {"vraag": "Mn", "antwoord": "Mangaan"},
+          {"vraag": "N", "antwoord": "Stikstof"},
+          {"vraag": "Na", "antwoord": "Natrium"},
+          {"vraag": "Ne", "antwoord": "Neon"},
+          {"vraag": "Ni", "antwoord": "Nikkel"},
+          {"vraag": "O", "antwoord": "Zuurstof"},
+          {"vraag": "P", "antwoord": "Fosfor"},
+          {"vraag": "Pb", "antwoord": "Lood"},
+          {"vraag": "Pt", "antwoord": "Platina"},
+          {"vraag": "Pu", "antwoord": "Plutonium"},
+          {"vraag": "Rn", "antwoord": "Radon"},
+          {"vraag": "S", "antwoord": "Zwavel"},
+          {"vraag": "Sb", "antwoord": "Antimoon"},
+          {"vraag": "Si", "antwoord": "Silicium"},
+          {"vraag": "Sn", "antwoord": "Tin"},
+          {"vraag": "U", "antwoord": "Uraan of Uranium"},
+          {"vraag": "Xe", "antwoord": "Xenon"},
+          {"vraag": "Zn", "antwoord": "Zink"}
+        ]
+      },
+      {
+        "type": "flashcards",
+        "titel": "Atoomsoorten oefenen (atoomsoort naar symbool)",
+        "kaarten": [
+          {"vraag": "Zilver", "antwoord": "Ag"},
+          {"vraag": "Aluminium", "antwoord": "Al"},
+          {"vraag": "Argon", "antwoord": "Ar"},
+          {"vraag": "Arseen", "antwoord": "As"},
+          {"vraag": "Goud", "antwoord": "Au"},
+          {"vraag": "Boor", "antwoord": "B"},
+          {"vraag": "Barium", "antwoord": "Ba"},
+          {"vraag": "Beryllium", "antwoord": "Be"},
+          {"vraag": "Broom", "antwoord": "Br"},
+          {"vraag": "Koolstof", "antwoord": "C"},
+          {"vraag": "Calcium", "antwoord": "Ca"},
+          {"vraag": "Cadmium", "antwoord": "Cd"},
+          {"vraag": "Chloor", "antwoord": "Cl"},
+          {"vraag": "Kobalt", "antwoord": "Co"},
+          {"vraag": "Chroom", "antwoord": "Cr"},
+          {"vraag": "Koper", "antwoord": "Cu"},
+          {"vraag": "Fluor", "antwoord": "F"},
+          {"vraag": "IJzer", "antwoord": "Fe"},
+          {"vraag": "Germanium", "antwoord": "Ge"},
+          {"vraag": "Waterstof", "antwoord": "H"},
+          {"vraag": "Helium", "antwoord": "He"},
+          {"vraag": "Kwik", "antwoord": "Hg"},
+          {"vraag": "Jood of Jodium", "antwoord": "I"},
+          {"vraag": "Kalium", "antwoord": "K"},
+          {"vraag": "Krypton", "antwoord": "Kr"},
+          {"vraag": "Lithium", "antwoord": "Li"},
+          {"vraag": "Magnesium", "antwoord": "Mg"},
+          {"vraag": "Mangaan", "antwoord": "Mn"},
+          {"vraag": "Stikstof", "antwoord": "N"},
+          {"vraag": "Natrium", "antwoord": "Na"},
+          {"vraag": "Neon", "antwoord": "Ne"},
+          {"vraag": "Nikkel", "antwoord": "Ni"},
+          {"vraag": "Zuurstof", "antwoord": "O"},
+          {"vraag": "Fosfor", "antwoord": "P"},
+          {"vraag": "Lood", "antwoord": "Pb"},
+          {"vraag": "Platina", "antwoord": "Pt"},
+          {"vraag": "Plutonium", "antwoord": "Pu"},
+          {"vraag": "Radon", "antwoord": "Rn"},
+          {"vraag": "Zwavel", "antwoord": "S"},
+          {"vraag": "Antimoon", "antwoord": "Sb"},
+          {"vraag": "Silicium", "antwoord": "Si"},
+          {"vraag": "Tin", "antwoord": "Sn"},
+          {"vraag": "Uraan of Uranium", "antwoord": "U"},
+          {"vraag": "Xenon", "antwoord": "Xe"},
+          {"vraag": "Zink", "antwoord": "Zn"}
+        ]
+      },
+      {
+        "type": "quiz",
+        "titel": "Atoomsoorten oefenen",
+        "vragen": [
+          {
+            "vraag": "Wat is de atoomsoort van Ag?",
+            "opties": ["Goud", "Zilver", "Aluminium"],
+            "juist": 1,
+            "uitleg": "Ag is het symbool voor zilver."
+          },
+          {
+            "vraag": "Wat is het symbool van Aluminium?",
+            "opties": ["Al", "Au", "Ag"],
+            "juist": 0,
+            "uitleg": "Aluminium heeft als symbool Al."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Ar?",
+            "opties": ["Arseen", "Argon", "Krypton"],
+            "juist": 1,
+            "uitleg": "Ar is het symbool voor argon."
+          },
+          {
+            "vraag": "Wat is het symbool van Arseen?",
+            "opties": ["Ar", "As", "Ag"],
+            "juist": 1,
+            "uitleg": "Arseen heeft als symbool As."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Au?",
+            "opties": ["Zilver", "Aluminium", "Goud"],
+            "juist": 2,
+            "uitleg": "Au is het symbool voor goud."
+          },
+          {
+            "vraag": "Wat is het symbool van Boor?",
+            "opties": ["Ba", "B", "Be"],
+            "juist": 1,
+            "uitleg": "Boor heeft als symbool B."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Ba?",
+            "opties": ["Beryllium", "Barium", "Boor"],
+            "juist": 1,
+            "uitleg": "Ba is het symbool voor barium."
+          },
+          {
+            "vraag": "Wat is het symbool van Beryllium?",
+            "opties": ["Be", "B", "Ba"],
+            "juist": 0,
+            "uitleg": "Beryllium heeft als symbool Be."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Br?",
+            "opties": ["Broom", "Boor", "Barium"],
+            "juist": 0,
+            "uitleg": "Br is het symbool voor broom."
+          },
+          {
+            "vraag": "Wat is het symbool van Koolstof?",
+            "opties": ["Ca", "Cl", "C"],
+            "juist": 2,
+            "uitleg": "Koolstof heeft als symbool C."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Ca?",
+            "opties": ["Cadmium", "Calcium", "Koolstof"],
+            "juist": 1,
+            "uitleg": "Ca is het symbool voor calcium."
+          },
+          {
+            "vraag": "Wat is het symbool van Cadmium?",
+            "opties": ["Ca", "Cd", "Cl"],
+            "juist": 1,
+            "uitleg": "Cadmium heeft als symbool Cd."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Cl?",
+            "opties": ["Chroom", "Chloor", "Kobalt"],
+            "juist": 1,
+            "uitleg": "Cl is het symbool voor chloor."
+          },
+          {
+            "vraag": "Wat is het symbool van Kobalt?",
+            "opties": ["Co", "Cr", "Cu"],
+            "juist": 0,
+            "uitleg": "Kobalt heeft als symbool Co."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Cr?",
+            "opties": ["Koper", "Chroom", "Kobalt"],
+            "juist": 1,
+            "uitleg": "Cr is het symbool voor chroom."
+          },
+          {
+            "vraag": "Wat is het symbool van Koper?",
+            "opties": ["Co", "Cr", "Cu"],
+            "juist": 2,
+            "uitleg": "Koper heeft als symbool Cu."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van F?",
+            "opties": ["Fluor", "Fosfor", "IJzer"],
+            "juist": 0,
+            "uitleg": "F is het symbool voor fluor."
+          },
+          {
+            "vraag": "Wat is het symbool van IJzer?",
+            "opties": ["F", "Fe", "Ge"],
+            "juist": 1,
+            "uitleg": "IJzer heeft als symbool Fe."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Ge?",
+            "opties": ["Germanium", "Goud", "Krypton"],
+            "juist": 0,
+            "uitleg": "Ge is het symbool voor germanium."
+          },
+          {
+            "vraag": "Wat is het symbool van Waterstof?",
+            "opties": ["He", "H", "Hg"],
+            "juist": 1,
+            "uitleg": "Waterstof heeft als symbool H."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van He?",
+            "opties": ["Kwik", "Waterstof", "Helium"],
+            "juist": 2,
+            "uitleg": "He is het symbool voor helium."
+          },
+          {
+            "vraag": "Wat is het symbool van Kwik?",
+            "opties": ["H", "He", "Hg"],
+            "juist": 2,
+            "uitleg": "Kwik heeft als symbool Hg."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van I?",
+            "opties": ["IJzer", "Jood of Jodium", "Jodium is geen atoomsoort"],
+            "juist": 1,
+            "uitleg": "I is het symbool voor jood of jodium."
+          },
+          {
+            "vraag": "Wat is het symbool van Kalium?",
+            "opties": ["Ca", "K", "Kr"],
+            "juist": 1,
+            "uitleg": "Kalium heeft als symbool K."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Kr?",
+            "opties": ["Krypton", "Kalium", "Koolstof"],
+            "juist": 0,
+            "uitleg": "Kr is het symbool voor krypton."
+          },
+          {
+            "vraag": "Wat is het symbool van Lithium?",
+            "opties": ["Li", "Lu", "L"],
+            "juist": 0,
+            "uitleg": "Lithium heeft als symbool Li."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Mg?",
+            "opties": ["Mangaan", "Magnesium", "Molybdeen"],
+            "juist": 1,
+            "uitleg": "Mg is het symbool voor magnesium."
+          },
+          {
+            "vraag": "Wat is het symbool van Mangaan?",
+            "opties": ["Mg", "Mn", "Ma"],
+            "juist": 1,
+            "uitleg": "Mangaan heeft als symbool Mn."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van N?",
+            "opties": ["Neon", "Nikkel", "Stikstof"],
+            "juist": 2,
+            "uitleg": "N is het symbool voor stikstof."
+          },
+          {
+            "vraag": "Wat is het symbool van Natrium?",
+            "opties": ["N", "Na", "Ne"],
+            "juist": 1,
+            "uitleg": "Natrium heeft als symbool Na."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Ne?",
+            "opties": ["Neon", "Natrium", "Nikkel"],
+            "juist": 0,
+            "uitleg": "Ne is het symbool voor neon."
+          },
+          {
+            "vraag": "Wat is het symbool van Nikkel?",
+            "opties": ["N", "Na", "Ni"],
+            "juist": 2,
+            "uitleg": "Nikkel heeft als symbool Ni."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van O?",
+            "opties": ["Goud", "Zuurstof", "Osmium"],
+            "juist": 1,
+            "uitleg": "O is het symbool voor zuurstof."
+          },
+          {
+            "vraag": "Wat is het symbool van Fosfor?",
+            "opties": ["F", "Fe", "P"],
+            "juist": 2,
+            "uitleg": "Fosfor heeft als symbool P."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Pb?",
+            "opties": ["Platina", "Lood", "Plutonium"],
+            "juist": 1,
+            "uitleg": "Pb is het symbool voor lood."
+          },
+          {
+            "vraag": "Wat is het symbool van Platina?",
+            "opties": ["Pt", "Pb", "Pu"],
+            "juist": 0,
+            "uitleg": "Platina heeft als symbool Pt."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Pu?",
+            "opties": ["Platina", "Plutonium", "Lood"],
+            "juist": 1,
+            "uitleg": "Pu is het symbool voor plutonium."
+          },
+          {
+            "vraag": "Wat is het symbool van Radon?",
+            "opties": ["Rn", "Ra", "R"],
+            "juist": 0,
+            "uitleg": "Radon heeft als symbool Rn."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van S?",
+            "opties": ["Silicium", "Zwavel", "Tin"],
+            "juist": 1,
+            "uitleg": "S is het symbool voor zwavel."
+          },
+          {
+            "vraag": "Wat is het symbool van Antimoon?",
+            "opties": ["Si", "Sn", "Sb"],
+            "juist": 2,
+            "uitleg": "Antimoon heeft als symbool Sb."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Si?",
+            "opties": ["Silicium", "Zwavel", "Tin"],
+            "juist": 0,
+            "uitleg": "Si is het symbool voor silicium."
+          },
+          {
+            "vraag": "Wat is het symbool van Tin?",
+            "opties": ["Ti", "Sn", "Si"],
+            "juist": 1,
+            "uitleg": "Tin heeft als symbool Sn."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van U?",
+            "opties": ["Uraan of Uranium", "Uranium is geen atoomsoort", "Zink"],
+            "juist": 0,
+            "uitleg": "U is het symbool voor uraan of uranium."
+          },
+          {
+            "vraag": "Wat is het symbool van Xenon?",
+            "opties": ["Zn", "Xe", "X"],
+            "juist": 1,
+            "uitleg": "Xenon heeft als symbool Xe."
+          },
+          {
+            "vraag": "Wat is de atoomsoort van Zn?",
+            "opties": ["Zilver", "Zink", "Zuurstof"],
+            "juist": 1,
+            "uitleg": "Zn is het symbool voor zink."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -957,117 +957,117 @@
             ],
             "juist": 0,
             "uitleg": "Je hebt keelpijn."
-            },
-            {
-  "vraag": "Dialoog 9 - Deel 2\nA: Est-ce que tu as de la fièvre ?",
-  "opties": [
-    "Non, je me suis cassé le bras.",
-    "Oui, j'ai aussi un peu de fièvre.",
-    "Oui, j'ai mal au pied."
-  ],
-  "juist": 1,
-  "uitleg": "Je hebt ook een beetje koorts."
-},
-{
-  "vraag": "Dialoog 9 - Deel 3\nA: Tu dois te reposer et prendre un médicament.",
-  "opties": [
-    "D'accord. Je vais rester au lit.",
-    "Je vais faire du sport.",
-    "Je vais chez le dentiste."
-  ],
-  "juist": 0,
-  "uitleg": "Je blijft in bed en rust uit."
-},
-{
-  "vraag": "Dialoog 10 - Deel 1\nSituatie: Je hebt je pols verstuikt tijdens het sporten.\nA: Qu'est-ce qui ne va pas ?",
-  "opties": [
-    "Je me suis foulé le poignet pendant le sport.",
-    "J'ai attrapé un rhume.",
-    "J'ai mal aux dents."
-  ],
-  "juist": 0,
-  "uitleg": "Je hebt je pols verstuikt tijdens het sporten."
-},
-{
-  "vraag": "Dialoog 10 - Deel 2\nA: Ton poignet est gonflé ?",
-  "opties": [
-    "Oui, il est gonflé et il me fait mal.",
-    "Non, j'ai mal à la gorge.",
-    "Je suis très heureux."
-  ],
-  "juist": 0,
-  "uitleg": "Je pols is gezwollen en doet pijn."
-},
-{
-  "vraag": "Dialoog 10 - Deel 3\nA: Il faut mettre un bandage et consulter un médecin.",
-  "opties": [
-    "D'accord, je vais consulter un médecin.",
-    "Je vais manger une glace.",
-    "Je vais courir encore."
-  ],
-  "juist": 0,
-  "uitleg": "Je gaat naar een dokter."
-},
-{
-  "vraag": "Dialoog 11 - Deel 1\nSituatie: Je hebt buikpijn en bent misselijk.\nA: Tu ne te sens pas bien ?",
-  "opties": [
-    "Non, j'ai mal à l'estomac et j'ai des nausées.",
-    "Oui, je vais très bien.",
-    "Je me suis foulé la cheville."
-  ],
-  "juist": 0,
-  "uitleg": "Je hebt maagpijn en bent misselijk."
-},
-{
-  "vraag": "Dialoog 11 - Deel 2\nA: Tu as vomi ?",
-  "opties": [
-    "Oui, j'ai vomi une fois.",
-    "Non, je me suis coupé le doigt.",
-    "Je vais à l'école."
-  ],
-  "juist": 0,
-  "uitleg": "Je hebt één keer overgegeven."
-},
-{
-  "vraag": "Dialoog 11 - Deel 3\nA: Bois de l'eau et repose-toi. Si tu ne vas pas mieux, consulte un médecin.",
-  "opties": [
-    "Merci. Je vais me reposer.",
-    "Je vais courir.",
-    "Je vais manger beaucoup."
-  ],
-  "juist": 0,
-  "uitleg": "Je gaat rusten en water drinken."
-},
-{
-  "vraag": "Dialoog 12 - Deel 1\nSituatie: Je hebt een muggenbeet op je arm. De plek jeukt en is rood.\nA: Qu'est-ce que tu as au bras ?",
-  "opties": [
+          },
+          {
+            "vraag": "Dialoog 9 - Deel 2\nA: Est-ce que tu as de la fièvre ?",
+            "opties": [
+            "Non, je me suis cassé le bras.",
+            "Oui, j'ai aussi un peu de fièvre.",
+            "Oui, j'ai mal au pied."
+            ],
+            "juist": 1,
+            "uitleg": "Je hebt ook een beetje koorts."
+          },
+          {
+            "vraag": "Dialoog 9 - Deel 3\nA: Tu dois te reposer et prendre un médicament.",
+            "opties": [
+            "D'accord. Je vais rester au lit.",
+            "Je vais faire du sport.",
+            "Je vais chez le dentiste."
+            ],
+            "juist": 0,
+            "uitleg": "Je blijft in bed en rust uit."
+          },
+          {
+            "vraag": "Dialoog 10 - Deel 1\nSituatie: Je hebt je pols verstuikt tijdens het sporten.\nA: Qu'est-ce qui ne va pas ?",
+            "opties": [
+            "Je me suis foulé le poignet pendant le sport.",
+            "J'ai attrapé un rhume.",
+            "J'ai mal aux dents."
+            ],
+            "juist": 0,
+            "uitleg": "Je hebt je pols verstuikt tijdens het sporten."
+          },
+          {
+            "vraag": "Dialoog 10 - Deel 2\nA: Ton poignet est gonflé ?",
+            "opties": [
+            "Oui, il est gonflé et il me fait mal.",
+            "Non, j'ai mal à la gorge.",
+            "Je suis très heureux."
+            ],
+            "juist": 0,
+            "uitleg": "Je pols is gezwollen en doet pijn."
+          },
+          {
+            "vraag": "Dialoog 10 - Deel 3\nA: Il faut mettre un bandage et consulter un médecin.",
+            "opties": [
+            "D'accord, je vais consulter un médecin.",
+            "Je vais manger une glace.",
+            "Je vais courir encore."
+            ],
+            "juist": 0,
+            "uitleg": "Je gaat naar een dokter."
+          },
+          {
+            "vraag": "Dialoog 11 - Deel 1\nSituatie: Je hebt buikpijn en bent misselijk.\nA: Tu ne te sens pas bien ?",
+            "opties": [
+            "Non, j'ai mal à l'estomac et j'ai des nausées.",
+            "Oui, je vais très bien.",
+            "Je me suis foulé la cheville."
+            ],
+            "juist": 0,
+            "uitleg": "Je hebt maagpijn en bent misselijk."
+          },
+          {
+            "vraag": "Dialoog 11 - Deel 2\nA: Tu as vomi ?",
+            "opties": [
+            "Oui, j'ai vomi une fois.",
+            "Non, je me suis coupé le doigt.",
+            "Je vais à l'école."
+            ],
+            "juist": 0,
+            "uitleg": "Je hebt één keer overgegeven."
+          },
+          {
+            "vraag": "Dialoog 11 - Deel 3\nA: Bois de l'eau et repose-toi. Si tu ne vas pas mieux, consulte un médecin.",
+            "opties": [
+            "Merci. Je vais me reposer.",
+            "Je vais courir.",
+            "Je vais manger beaucoup."
+            ],
+            "juist": 0,
+            "uitleg": "Je gaat rusten en water drinken."
+          },
+          {
+            "vraag": "Dialoog 12 - Deel 1\nSituatie: Je hebt een muggenbeet op je arm. De plek jeukt en is rood.\nA: Qu'est-ce que tu as au bras ?",
+            "opties": [
     "J'ai une piqûre de moustique.",
     "J'ai une grippe.",
     "J'ai mal au dos."
-  ],
-  "juist": 0,
-  "uitleg": "Je hebt een muggenbeet."
-},
-{
-  "vraag": "Dialoog 12 - Deel 2\nA: Est-ce que ça te fait mal ?",
-  "opties": [
-    "Non, mais ça me gratte beaucoup.",
-    "Oui, j'ai mal aux dents.",
-    "Je suis tombé dans les escaliers."
-  ],
-  "juist": 0,
-  "uitleg": "De beet jeukt erg."
-},
-{
-  "vraag": "Dialoog 12 - Deel 3\nA: Mets un peu de pommade sur la piqûre.",
-  "opties": [
-    "D'accord, merci pour le conseil.",
-    "Je vais prendre une ambulance.",
-    "Je vais passer des radios."
-  ],
-  "juist": 0,
-  "uitleg": "Je bedankt je vriend voor het advies."
-},
+            ],
+            "juist": 0,
+            "uitleg": "Je hebt een muggenbeet."
+          },
+          {
+            "vraag": "Dialoog 12 - Deel 2\nA: Est-ce que ça te fait mal ?",
+            "opties": [
+            "Non, mais ça me gratte beaucoup.",
+            "Oui, j'ai mal aux dents.",
+            "Je suis tombé dans les escaliers."
+            ],
+            "juist": 0,
+            "uitleg": "De beet jeukt erg."
+          },
+          {
+            "vraag": "Dialoog 12 - Deel 3\nA: Mets un peu de pommade sur la piqûre.",
+            "opties": [
+            "D'accord, merci pour le conseil.",
+            "Je vais prendre une ambulance.",
+            "Je vais passer des radios."
+            ],
+            "juist": 0,
+            "uitleg": "Je bedankt je vriend voor het advies."
+          },
 {
   "vraag": "Dialoog 13 - Deel 1\nSituatie: Je hebt je knie bezeerd tijdens het voetballen.\nA: Tu as mal ? Qu'est-ce qui s'est passé ?",
   "opties": [
